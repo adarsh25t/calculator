@@ -1,1 +1,1 @@
- calculator
+ calculator_25t
