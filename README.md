@@ -1,1 +1,0 @@
-calculator 25t
